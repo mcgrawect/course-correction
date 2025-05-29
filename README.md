@@ -7,6 +7,8 @@ When designing learning materials and exercises for world language education, pr
 
 ## Presenters
 ### Alex Hollinghead
+ach4@princeton.edu\
 Alex Hollinghead is an education technologist and manager of the Digital Learning Lab at Princeton University. He partners with faculty to incorporate technological tools and digital pedagogy  methods into Princeton coursework, and to support students developing their skills in domains ranging from video production, web development, generative AI, audio editing, and graphic design. He oversees the operations of the Digital Learning Lab and conducts workshops on a variety of topics to support digital pedagogy in partner courses.
 ### Hisae Matsui
+hmatsui@princeton.edu\
 Hisae Matsui holds an Ed.D. in Technology Education and an M.A. in TESOL/Linguistics from West Virginia University, as well as a B.Ed. in Elementary Education from Hiroshima University, Japan. She has been teaching Japanese language courses for first through fourth years at Princeton since 2007. Her scholarly interests focus on the integration of innovative technology into world language pedagogy. Her current research explores the use of design thinking in curriculum development, adaptive and personalized approaches to language instruction, virtual exchanges between native and non-native speakers of Japanese, and the utilization of artificial intelligence tools in second-language acquisition.
